@@ -1,0 +1,14 @@
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/bin/Debug/net9.0/AplikacjaKonsolowaTest
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/bin/Debug/net9.0/AplikacjaKonsolowaTest.deps.json
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/bin/Debug/net9.0/AplikacjaKonsolowaTest.runtimeconfig.json
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/bin/Debug/net9.0/AplikacjaKonsolowaTest.dll
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/bin/Debug/net9.0/AplikacjaKonsolowaTest.pdb
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.AssemblyInfoInputs.cache
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.AssemblyInfo.cs
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.csproj.CoreCompileInputs.cache
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.dll
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/refint/AplikacjaKonsolowaTest.dll
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.pdb
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/AplikacjaKonsolowaTest.genruntimeconfig.cache
+/Users/iga/Desktop/first/AplikacjaKonsolowaTest/obj/Debug/net9.0/ref/AplikacjaKonsolowaTest.dll
